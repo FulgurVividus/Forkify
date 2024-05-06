@@ -30,7 +30,7 @@ To use Forkify:
 1. Clone the repository to your local machine.
 2. Install dependencies by running `npm install`.
 3. Run the application using `npm start` or your preferred development server command.
-4. However, there is second way - just go via the link provided in the description.
+4. However, there is second way - just go via the link provided in the "About" section.
 5. Explore recipes, bookmark your favorites, and even add your own custom recipes!
 
 ## Credits 🙌
